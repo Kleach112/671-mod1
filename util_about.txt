@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-08-26 at 03:58 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.9.12
+ Python Build Date and Compiler: main with Apr  4 2022 05:22:27
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\kaleach\Miniconda3\python.exe
+ Path to virtual environment: C:\Users\kaleach\Miniconda3
+ Current Working Directory:   C:\Users\kaleach\OneDrive - The School District of Springfield R-12\Desktop\Grad_School\SY2023\44-671\Module1\671-mod1
+ Path to source directory:    c:\Users\kaleach\OneDrive - The School District of Springfield R-12\Desktop\Grad_School\SY2023\44-671\Module1\671-mod1
+ Path to script file:         c:\Users\kaleach\OneDrive - The School District of Springfield R-12\Desktop\Grad_School\SY2023\44-671\Module1\671-mod1\util_about.py
+ User's Home Directory:       C:\Users\kaleach
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

@@ -21,8 +21,6 @@ Remember:
 
 ## Verify Installations / Update Default Python
 
-In VS Code, open a terminal window (View / Terminal).
-If macOS/Linux, change `python` to `python3` in the commands below.
 
 ```shell
 git --version
@@ -34,13 +32,6 @@ python -m pip install --upgrade pip wheel
 
 With your repo folder open in VS Code:
 
-1. Click util_about.py.
-1. If VS Code prompts, install the recommended Python extension.
-1. Check the Python Interpreter: On the bottom-left status bar, you might see a version of Python indicated (e.g., Python 3.10.x).
-1. If not, click on the bottom status bar where it should show the Python version or might say "Select Python Interpreter".
-1. From the dropdown, choose your default Python version.
-1. In VS Code, open a terminal window (View / Terminal).
-1. If macOS/Linux, change `python` to `python3` below.
 
 ```shell
 python util_about.py
@@ -50,24 +41,10 @@ python util_about.py
 
 ## Explore & Execute Project Scripts
 
-With your repo folder open in VS Code, start exploring.
-Open, read, and run each project script (each file will have a .py extension) in order.
-You don't need to fully understand the code yet. 
-Instead, try to figure out what each file is doing.
 
-When you finish, you'll have an idea of some things possible using just the Python standard library. 
-You'll have generated several new data files.
-The streaming process will run continuously for quite a while. 
-Read the comments in the file to learn how to stop the process.
 
 ## Update Edit README
 
-Edit this README.md file. It uses Markdown, a simple and easy markup language.
-
-- Keep the prerequisites and task headings. 
-- Within the task headings, keep only the commands that worked on YOUR machine. 
-- Remove unnecessary instructions once you've mastered them.
-- Add any additional notes that will help you in the future.
 
 ## Sync to GitHub
 
